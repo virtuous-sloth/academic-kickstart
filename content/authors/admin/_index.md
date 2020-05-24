@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Bruce Elrick is an information technology consultant whose whose educational background is in physics.
+Bruce Elrick is an information technology consultant whose educational background is in physics.
