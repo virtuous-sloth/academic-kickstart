@@ -106,7 +106,7 @@ coordinates = {latitude = "51.055272", longitude = "-114.072681"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/messages/compose?recipient_id=15676833"},
+  {icon = "twitter", icon_pack = "fab", name = "Tweet to Me", link = "https://twitter.com/messages/compose?recipient_id=15676833"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/virtuous_sloth/chat"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -266,7 +266,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 15
+  zoom = 30
 
 ############################
 ## Marketing
