@@ -23,6 +23,7 @@ bio: I'm interested in how the world works.
 interests:
 - Physics
 - Computation
+- Justice
 - Economics
 
 education:
@@ -70,4 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Bruce Elrick is an information technology consultant whose educational background is in physics.
+I am a husband to Nancy and a father to Alex and Matt. My vocation is as
+an information technology consultant. My educational background is in physics.
