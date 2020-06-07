@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I am a husband to Nancy and a father to Alex and Matt. My vocation is as
+I am husband to Nancy and father to Alex and Matt. My vocation is as
 an information technology consultant. My educational background is in physics.
