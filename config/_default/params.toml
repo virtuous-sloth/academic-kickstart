@@ -91,7 +91,7 @@ address = {city = "Calgary", region = "AB", country = "Canada", country_code = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.055272", longitude = "-114.072681"}
+coordinates = {latitude = "51.149446", longitude = "-114.12413"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -266,7 +266,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 30
+  zoom = 10
 
 ############################
 ## Marketing
